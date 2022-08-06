@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+</head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="TF=edge">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>cobacobahtml</title>
+</head>
+<body>
+    <!-- Heading -->
+    <h1>Belajar Heading 1</h1>
+    <h2>Belajar Heading 2</h2>
+    <h3>Belajar Heading 3</h3>
+    <!-- Paragraph -->
+    <p>Belajar Paragraph</p>
+    <!-- Formating -->
+    <p></p><b>ini bold</b></p>
+    <p></p><b>ini tidak bold</b></p>
+    <!--link-->
+    <a href="https://siswa.smktelkom-mlg.sch.id/welcome">Siakad</a>
+    <br>
+    <img src="ramyeon.jpg" alt="Ramyeon" width="500" height="333">
+</body>
+</html>
